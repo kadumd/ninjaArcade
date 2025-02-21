@@ -1,0 +1,5 @@
+1- Como colocar a borda só no personagem ao invés de ficar um quadrado estranho
+
+2- Como deixar os numeros passando enquanto o numero está sendo sorteado
+
+3- Como fazer o relampago passar rápido ao invés de ter uma pequena transição da parte escura até a parte clara que seria o relampago
